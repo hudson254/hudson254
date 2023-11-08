@@ -21,8 +21,9 @@
 </div>
 
 ---
-
+<div id="aboutme" align="center">
 :technologist: About Me :
+</div>
 
 :telescope: I’m working as an ICT officer focusing on networking, user support and systems administration.
 
