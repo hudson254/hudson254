@@ -20,11 +20,10 @@
 </div>
   
 :technologist: About Me :
-  - :telescope: I’m working as an ICT officer focusing on networking, user support and systems administration.
 
-- :seedling: Exploring web development and coding in general.
-
-- :zap: In my free time, I dabble in dev and try to improve my skills.
+:telescope: I’m working as an ICT officer focusing on networking, user support and systems administration.
+:seedling: Exploring web development and coding in general.
+:zap: In my free time, I dabble in dev and try to improve my skills.
 :hammer_and_wrench: Languages and Tools aiming to be proficient in :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
