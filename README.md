@@ -18,10 +18,11 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+  </div>
   - :telescope: I’m working as an ICT officer focusing on networking, user supprort and systems administration.
 
 - :seedling: Exploring web development and coding in general.
 
 - :zap: In my free time, I dabble in dev and try to improve my skills.
-</div>
+
 
