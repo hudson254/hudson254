@@ -15,7 +15,7 @@
 
 ---
 
-<h1> Hello :wave: </h1>
+Hello :wave: 
 
 ---
 
