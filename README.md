@@ -23,6 +23,5 @@
 - :seedling: Exploring web development and coding in general.
 
 - :zap: In my free time, I dabble in dev and try to improve my skills.
-
 </div>
 
