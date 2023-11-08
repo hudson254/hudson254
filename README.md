@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   </div>
-  ### :technologist: About Me :
+:technologist: About Me :
   - :telescope: I’m working as an ICT officer focusing on networking, user supprort and systems administration.
 
 - :seedling: Exploring web development and coding in general.
