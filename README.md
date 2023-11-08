@@ -27,7 +27,7 @@
 <h1>:technologist: About Me : </h1>
 </div>
 
-:telescope: I’m working as an ICT officer focusing on networking, user support and systems administration.
+:telescope: I’m working as an ICT officer focusing on networking, user support and systems administration slowly switching to the dev side of tech
 
 :seedling: Exploring web development and coding in general.
 
