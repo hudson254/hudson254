@@ -18,7 +18,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  </div>
+  
 :technologist: About Me :
   - :telescope: I’m working as an ICT officer focusing on networking, user support and systems administration.
 
@@ -39,3 +39,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hudson254&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudson254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
