@@ -1,6 +1,3 @@
-
----
-
 <h1> Hello :wave: </h1>
 
   <div align="center">
