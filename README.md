@@ -35,7 +35,7 @@
 ---
 
 [![Hudson's GitHub stats](https://github-stats-extended.vercel.app/api?username=hudson254)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hudson254&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=hudson254&langs_count=4)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hudson254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
